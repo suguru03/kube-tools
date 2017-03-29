@@ -12,7 +12,7 @@
   "author": "Suguru Motegi",
   "license": "MIT",
   "dependencies": {
-    "bluebird": "^3.4.6",
+    "aigle": "^0.6.0",
     "inquirer": "^1.2.1",
     "lodash": "^4.16.2"
   }
